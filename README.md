@@ -48,7 +48,7 @@ Here’s the breakdown of all the important subjects and their chapters, along w
 
 ## Physics Syllabus
 
-[Link to Physics Syllabus Important Questions](./Physics-Syllabus/README.md)
+[Link to Physics Syllabus Important Questions](https://github.com/Quicksilver-lab/Sudden-Competition/tree/main/Physics-Syllabus)
 
 ---
 
