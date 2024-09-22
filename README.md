@@ -1,4 +1,4 @@
-# Academic Competition - Important Questions Repository 📚
+# Academic Competition 📚
 
 Welcome to the **Stuff** for my academic competition! 🎯 This repository is my one-stop-shop for all the important questions, answers, and concepts I’ll need to dominate the exams. I'm covering **Physics, Chemistry, Computer Science, Math, and English** based on the **Sudden-Competition** syllabus.
 
@@ -12,7 +12,7 @@ But then it hit me… *95% marks?* Oh boy, now I actually have to study like nev
 
 ---
 
-## How I Accidentally Signed Up for the 95% Survival Challenge...😅
+## How I Accidentally Signed Up for the 95% Survival Challenge... 😅
 
 > It was a totally normal Wednesday evening. My academy starts at 4 pm, but being the absolute master of punctuality that I am, I decided to roll in at around 6 pm. Fashionably late, right? Well, not so much. As soon as I entered, I noticed something different. There was a results announcement happening, and I had no idea because I’d just joined the academy a few weeks ago. Oh, the joys of being the new guy! 🤦‍♂️
 
@@ -31,6 +31,8 @@ But then it hit me… *95% marks?* Oh boy, now I actually have to study like nev
 > Turns out, we’re all in for it now—8 boys (including me, naturally) and a bunch of super-smart girls (I lost count, too busy freaking out) are now in a full-on competition, starting 1st October. And the goal? A glorious, shiny 95% in 5 subjects. Yep, you heard that right.
 
 > And now, the reality is sinking in... I’ve got to actually study. Wish me luck, because, let’s be real, I’m gonna need it. 😂
+
+---
 
 ## Contents
 
