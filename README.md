@@ -63,7 +63,7 @@ Here’s the breakdown of all the important subjects and their chapters, along w
 
 ## Computer Science Syllabus
 
-(*Coming soon...*)
+[Computer Sylabus](Computer-Syllabus)
 
 ---
 
