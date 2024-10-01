@@ -45,6 +45,9 @@ Here’s the breakdown of all the important subjects and their chapters, along w
 5. [**English Syllabus**](#english-syllabus)
 
 ---
+![image](https://github.com/user-attachments/assets/99bbed15-98cc-41db-a91c-cc18684dc707)
+
+---
 
 ## Physics Syllabus
 
